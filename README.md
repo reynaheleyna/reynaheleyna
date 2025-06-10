@@ -13,14 +13,59 @@ Hi, I'm **H Barrameda**, a Filipina tech practitioner navigating the ultra-hip m
 - 🌱 Studying: FinOps, some DevOps, Technical Writing and Knowledge Management, a bunch of Systems and Analytics
 - 👯 I see myself working well with ... lifelong learners, FinOps folks, and technology professionals who hate documenting their work but need good technical documentation
 
+### 🌱 Specific Focus Areas
+- Mastering data warehousing and automations using **Microsoft Fabric** and **Power Platform**
+- Building cost-efficient cloud systems using **FinOps principles**
+- Documenting **DevOps pipelines** and **automation playbooks** as part of technical intellectual capital management. 
+
 ---
 
-## 🛠️ Tech & Magic Stack
+## 🛠️ Tech & Magic Stack Overview
 
-![DevOps](https://img.shields.io/badge/-DevOps-black?style=flat-square&logo=linux)
-![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Power Automate](https://img.shields.io/badge/-Power%20Automate-0078D4?style=flat-square&logo=power-automate)
+<table>
+  <!-- Programming Languages -->
+  <tr><td colspan="4" align="center"><strong>💻 Languages & Core Technologies</strong></td></tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown" /></td>
+  </tr>
+
+  <!-- Data Science & Analytics -->
+  <tr><td colspan="4" align="center"><strong>📊 Data Science, Notebooks & Visualization</strong></td></tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-Jupyter%20Notebook-black?style=flat-square&logo=jupyter" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-PySpark-black?style=flat-square&logo=apachespark" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Microsoft%20Fabric-black?style=flat-square&logo=microsoft" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-FinOps%20Foundation-black?style=flat-square&logo=finopsfoundation" /></td>
+  </tr>
+
+  <!-- DevOps & Cloud -->
+  <tr><td colspan="4" align="center"><strong>🚀 DevOps, Cloud & Automation</strong></td></tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-DevOps-black?style=flat-square&logo=linux" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-CI%2FCD-black?style=flat-square&logo=githubactions" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Power%20Automate-0078D4?style=flat-square&logo=power-automate" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Zenoss-black?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDBDM0YyIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0yMS4xIDMuOWMtLjMtLjUtLjgtLjctMS40LS43cy0xLjEuMy0xLjQuOEwxMy41IDYuNkgxMi4yVjQuOEwxNC40IDMuMWMuMy0uMi41LS4" /></td>
+    <td></td>
+  </tr>
+
+  <!-- CMS & Platform Tools -->
+  <tr><td colspan="4" align="center"><strong>🌐 CMS & Platform Tools</strong></td></tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-Drupal-black?style=flat-square&logo=drupal" /></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 
 ---
 
@@ -39,8 +84,9 @@ Hi, I'm **H Barrameda**, a Filipina tech practitioner navigating the ultra-hip m
 
 ## 🔗 Connect with Me
 
-🌐 [datamom.tech](https://datamom.tech)  
+💼 [LinkedIn](https://www.linkedin.com/in/helen-mary-labao-barrameda/)
 🧠 [Glasp](https://glasp.co/datamom)  
+📓 [Polywork](https://www.polywork.com/helenmarylabao)
 
 ---
 
