@@ -40,12 +40,6 @@ Hi, I'm **H Barrameda**, a Filipina tech practitioner navigating the ultra-hip m
     <td align="center"><img src="https://img.shields.io/badge/-ETL-black?style=flat-square&logo=apacheairflow" /></td>
     <td align="center"><img src="https://img.shields.io/badge/-Microsoft%20Fabric-black?style=flat-square&logo=microsoft" /></td>
   </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/-Prompt%20Engineering-black?style=flat-square&logo=openai" /></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
 
   <!-- DevOps & Cloud -->
   <tr><td colspan="4" align="center"><strong>🚀 DevOps, Cloud & Automation</strong></td></tr>
@@ -59,7 +53,7 @@ Hi, I'm **H Barrameda**, a Filipina tech practitioner navigating the ultra-hip m
     <td align="center"><img src="https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions" /></td>
     <td align="center"><img src="https://img.shields.io/badge/-Power%20Automate-0078D4?style=flat-square&logo=power-automate" /></td>
     <td align="center"><img src="https://img.shields.io/badge/-Zenoss-black?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDBDM0YyIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0yMS4xIDMuOWMtLjMtLjUtLjgtLjctMS40LS43cy0xLjEuMy0xLjQuOEwxMy41IDYuNkgxMi4yVjQuOEwxNC40IDMuMWMuMy0uMi41LS4" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/-FinOps%20Foundation-black?style=flat-square&logo=finopsfoundation" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Prompt%20Engineering-black?style=flat-square&logo=openai" /></td>
   </tr>
 
   <!-- CMS & Platform Tools -->
