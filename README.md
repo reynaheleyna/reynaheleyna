@@ -10,7 +10,7 @@
 Hi, I'm **H Barrameda**, a Filipina tech practitioner navigating the ultra-hip merge of digital transformation, knowledge management, and content both creative and technical. I code with clarity, I write with passion, and I lead with luminous sovereignty.
 
 - 🔭 Currently building: `Curiosettee` – where intellectual backend meets energetic frequency (and a bunch of other work stuff)
-- 🌱 Studying: Building cost-efficient cloud implem with FinOps principles, some DevOps, Technical Writing and Knowledge Management for intellectual capital management of organization, a bunch of Systems and Analytics
+- 🌱 Studying: Building cost-efficient cloud implem with FinOps principles, some DevOps, Technical Writing and Knowledge Management for intellectual capital management of organization, a bunch of Systems and Analytics, UX and a smattering of frontend.
 - 👯 I see myself working well with ... lifelong learners, FinOps folks, and technology professionals who hate documenting their work but need good technical documentation
 ---
 
