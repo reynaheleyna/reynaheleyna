@@ -1,6 +1,6 @@
 # 👑 Heleyna
 
-🌌 **Technical Writing, Technobusiness Strategy, FinOps, Python, and Analytics**
+🌌 **Technical Writing, Technobusiness Strat, FinOps, Python, and Analytics**
 ⚙️ Architecting systems with soul. Merging logic with light.  
 
 ---
