@@ -86,7 +86,8 @@ Hi, I'm **H Barrameda**, a Filipina tech practitioner navigating the ultra-hip m
 
 💼 [LinkedIn](https://www.linkedin.com/in/helen-mary-labao-barrameda/)
 🧠 [Glasp](https://glasp.co/datamom)  
-📓 [Polywork](https://www.polywork.com/helenmarylabao)
+📓 [Threads](https://www.threads.com/@curiosettee)
+🧙‍♀️ [LIP AND SHIP Learn in Public Discord Community](https://discord.gg/tcKYNRNk)
 
 ---
 
